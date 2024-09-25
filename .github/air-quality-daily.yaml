@@ -9,7 +9,7 @@ jobs:
   schedule_pipelines:
     runs-on: ubuntu-latest
 
-    permissions:  
+    permissions:
       pages: write
       contents: write
 
@@ -24,7 +24,7 @@ jobs:
           cache: 'pip'
       - name: install python packages
         run: |
-          cd notebooks/ch03
+          cd notebooks/
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
