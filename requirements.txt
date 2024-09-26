@@ -12,3 +12,5 @@ seaborn
 
 # User Interfaces in Python
 gradio
+
+geopy
