@@ -14,3 +14,7 @@ seaborn
 gradio
 
 geopy
+openmeteo-py
+openmeteo-requests
+retry-requests
+requests-cache
