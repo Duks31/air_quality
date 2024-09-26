@@ -1,11 +1,11 @@
 # Air Quality Dashboard
 
-{% include air-quality.html %}
+Welcome to the air quality dashboard! Here are the recent PM2.5 forecasts and hindcasts.
+
+
+<!-- {% include air-quality.html %} -->
 
 ![Forecast](./assets/img/pm25_forecast.png)
-
-<!-- There is also a Python program to interact with the air quality ML system using language (text, voice),
-powered by a [function-calling LLM](https://www.hopsworks.ai/dictionary/function-calling-with-llms). -->
 
 # Model Performance Monitoring
 
