@@ -1,14 +1,17 @@
+---
+layout: default
+title: Air Quality Dashboard
+---
+
 # Air Quality Dashboard
 
 Welcome to the air quality dashboard! Here are the recent PM2.5 forecasts and hindcasts.
 
+{% include air-quality.html %}
 
-<!-- {% include air-quality.html %} -->
 
-![Forecast](./assets/img/pm25_forecast.png)
+## PM2.5 Forecast
+![PM2.5 Forecast](assets/img/pm25_forecast.png)
 
-# Model Performance Monitoring
-
-1-Day Hindcast: Predictions vs Outcomes
-
-![Hindcast](./assets/img/pm25_hindcast_1day.png)
+## PM2.5 Hindcast
+![PM2.5 Hindcast](assets/img/pm25_hindcast_1day.png)
