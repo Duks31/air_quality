@@ -48,7 +48,7 @@ jobs:
 
           repository: .
 
-          status_options: '--untracked-files=no'
+          status_options: '--untracked-files=all'
           skip_dirty_check: true        
           skip_fetch: true        
           skip_checkout: true
