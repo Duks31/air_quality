@@ -39,7 +39,7 @@ jobs:
       - name: Stage untracked files
         run: |
           git add docs/air-quality/assets/img/*
-          git add index.html
+          git add docs/index.html
           git status
 
       - name: github pages publish
