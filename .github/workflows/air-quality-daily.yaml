@@ -40,7 +40,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Air Quality Dashboard published"
-          commit_options: '--no-verify --signoff'
+          commit_options: '--no-verify --signoff --all'
 
           file_pattern: 'docs/air-quality/assets/img/*'  
 
