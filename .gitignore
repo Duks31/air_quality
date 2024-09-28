@@ -3,3 +3,4 @@ hopsworks-api-key.txt
 air_quality_model/
 *.sqlite
 cache.sqlite
+*__pycache__/
