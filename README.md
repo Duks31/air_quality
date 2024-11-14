@@ -1,3 +1,4 @@
+
 ![pm25_forecast](images/pm25%20forecast.png)
 
 ![air_quality_predictor_workflow](images/aqp_workflow.png)
@@ -66,6 +67,7 @@ The project overview includes the following key components:
             pm25_hindcast.png
 ```
 
-## Live Demo
+## Demo
+NOTE: The demo is no more live
 
 https://duks31.github.io/air_quality/ 
